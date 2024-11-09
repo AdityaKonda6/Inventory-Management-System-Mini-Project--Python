@@ -1,5 +1,25 @@
 # Inventory-Management-System-Mini-Project--Python
 I have completed Inventory Management System using Python. Give a star :)
+Here are some Screenshots of my project :)
+
+![1st Main Screen](https://github.com/user-attachments/assets/947a1b2b-2075-40cd-b959-3d98dc5f6f0a)
+![2nd](https://github.com/user-attachments/assets/f568095c-272e-4242-b729-3ee75347bdd8)
+![3rd](https://github.com/user-attachments/assets/9a75c62e-c97d-45dd-9cb4-b82ce3ef1af1)
+![4th](https://github.com/user-attachments/assets/2beef91c-e747-4f40-a817-c5c19c25ec1b)
+![5th](https://github.com/user-attachments/assets/6acd3c85-d940-4a59-88b7-3606f1bdde3e)
+![6th](https://github.com/user-attachments/assets/4ef18378-47fa-43a1-90da-e7e339013bc6)
+![7th Update Database](https://github.com/user-attachments/assets/e62942fd-8292-4acb-86b2-0c7bd943e142)
+![8th](https://github.com/user-attachments/assets/32a414e3-2540-43c0-a333-afc4ef67a686)
+![9th](https://github.com/user-attachments/assets/df4656b1-228a-4752-87cd-560b4bca29b6)
+![10th Add To Database](https://github.com/user-attachments/assets/01a7cf30-9cf6-4d05-bbf8-10caba396d93)
+![11th](https://github.com/user-attachments/assets/b9905167-44aa-4bcd-b966-9a25fcbb09c3)
+![12th](https://github.com/user-attachments/assets/370a67d0-94f9-407f-8d05-636e12971558)
+![13th SQL](https://github.com/user-attachments/assets/67c667a4-c756-44c1-9bbf-b7d7c7caae56)
+![14th](https://github.com/user-attachments/assets/973b4908-a8bb-4751-9322-7b70cf0037bb)
+
+
+
+
 <h1 align="center">Hi Coders <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Konda</h1>
 <p align="center">
   <a href="https://github.com/AdityaKonda6/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
